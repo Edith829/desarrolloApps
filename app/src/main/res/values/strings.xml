@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pruebas</string>
+    <string name="materia">Desarrollo de aplicaciones móviles</string>
+    <string name="nombre">Jhoana Edith </string>
+    <string name="apellido">Roque Reyes</string>
+    <string name="home_screen" />
+    <string name="back_btn_desc" />
+    <string name="bottom_app_bar" />
+    <string name="home_fab_text" />
+</resources>

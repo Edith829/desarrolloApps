@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test</string>
+    <string name="materia">Mobile App</string>
+    <string name="nombre">Jhoana Edith </string>
+    <string name="apellido">Roque Reyes</string>
+    <string name="back_btn_desc" />
+    <string name="bottom_app_bar" />
+    <string name="home_fab_text" />
+</resources>
